@@ -653,7 +653,7 @@ class FON:
 
 
 class FRE:
-    ISO_639_1 = ''
+    ISO_639_1 = 'fr_core_news_sm'
     ISO_639 = 'fre'
     ENGLISH_NAME = 'French'
 
@@ -713,7 +713,7 @@ class GEO:
 
 
 class GER:
-    ISO_639_1 = 'de'
+    ISO_639_1 = 'de_core_news_sm'
     ISO_639 = 'ger'
     ENGLISH_NAME = 'German'
 
@@ -989,7 +989,7 @@ class JBO:
 
 
 class JPN:
-    ISO_639_1 = 'ja'
+    ISO_639_1 = 'ja_core_news_sm'
     ISO_639 = 'jpn'
     ENGLISH_NAME = 'Japanese'
 
@@ -1937,7 +1937,7 @@ class SOT:
 
 
 class SPA:
-    ISO_639_1 = 'es'
+    ISO_639_1 = 'es_core_news_sm'
     ISO_639 = 'spa'
     ENGLISH_NAME = 'Spanish'
 
