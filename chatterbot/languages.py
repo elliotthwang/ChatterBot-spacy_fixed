@@ -359,8 +359,8 @@ class CHG:
 
 
 class CHI:
-    ISO_639_1 = 'zh'
-    ISO_639 = 'chi'
+    ISO_639_1 = 'zh_core_web_sm'
+    ISO_639 = 'zh'
     ENGLISH_NAME = 'Chinese'
 
 
@@ -2381,13 +2381,13 @@ class ZHA:
 
 
 class ZHS:
-    ISO_639_1 = ''
+    ISO_639_1 = 'zh_core_web_sm'
     ISO_639 = 'zhs'
     ENGLISH_NAME = 'SimplifiedChinese'
 
 
 class ZHT:
-    ISO_639_1 = ''
+    ISO_639_1 = 'zh_core_web_sm'
     ISO_639 = 'zht'
     ENGLISH_NAME = 'TraditionalChinese'
 
